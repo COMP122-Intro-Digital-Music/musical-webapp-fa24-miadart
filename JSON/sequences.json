@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "name": "Twin",
+    "loop": "1:0:1",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "C3",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "sequence 2",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Db4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.0",
+        "pitch": "D#4",
+        "dur": "16n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 3",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Db4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.0",
+        "pitch": "D#4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.0",
+        "pitch": "E4",
+        "dur": "2n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 4",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "F4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:1.0",
+        "pitch": "Gb4",
+        "dur": "16n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 4",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Gb4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:1.0",
+        "pitch": "F4",
+        "dur": "16n",
+        "vel": "1"
+      }
+    ]
+  }
+]
