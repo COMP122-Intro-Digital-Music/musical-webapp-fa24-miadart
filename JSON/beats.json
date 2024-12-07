@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "dun dun",
+    "pitch": "A#3",
+    "pattern": "1001"
+  },
+  {
+    "name": "2 Claps",
+    "pitch": "C4",
+    "pattern": "00011"
+  },
+  {
+    "name": "1 Snare",
+    "pitch": "B3",
+    "pattern": "001"
+  },
+  {
+    "name": "HI there hat",
+    "pitch": "F4",
+    "pattern": "100000010101010"
+  },
+  {
+    "name": "Open palm",
+    "pitch": "F#4",
+    "pattern": "101010101010010010101001010"
+  }
+]
